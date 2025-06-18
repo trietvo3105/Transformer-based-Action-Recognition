@@ -21,3 +21,9 @@ If you don't like using anaconda, just simply run:
 ```
 pip install -r requirements.txt
 ```
+
+## Usage
+
+### Data Preparation:
+
+Place some short video files (can download from internet, e.g. https://www.pexels.com/) into the `data/raw_videos/{train,val}` directories (for training and validation purpose). These videos should be of simple actions like waving, clapping, or walking.
